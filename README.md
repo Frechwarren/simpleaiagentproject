@@ -12,11 +12,10 @@ This project is a simple conversational AI agent built with Python. The agent ca
 
 ## Tools & Libraries Used
 
-- [OpenAI API](https://platform.openai.com/): For natural language understanding and generation.
-- [LangChain](https://python.langchain.com/): Framework for building applications with language models and tools.
-- [LangGraph](https://github.com/langchain-ai/langgraph): For agent execution and streaming.
-- [python-dotenv](https://pypi.org/project/python-dotenv/): To manage environment variables securely.
-- [dotenv](https://pypi.org/project/python-dotenv/): For loading API keys from a `.env` file.
+- [![OpenAI](https://img.shields.io/badge/OpenAI-API-blue?logo=openai)](https://platform.openai.com/) &nbsp; For natural language understanding and generation.
+- [![LangChain](https://img.shields.io/badge/LangChain-Framework-yellowgreen?logo=python)](https://python.langchain.com/) &nbsp; Framework for building applications with language models and tools.
+- [![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Execution-orange?logo=python)](https://github.com/langchain-ai/langgraph) &nbsp; For agent execution and streaming.
+- [![python-dotenv](https://img.shields.io/badge/python--dotenv-Env%20Vars-green?logo=python)](https://pypi.org/project/python-dotenv/) &nbsp; To manage environment variables securely.
 
 ## Setup Instructions
 
